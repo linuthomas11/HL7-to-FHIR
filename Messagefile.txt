@@ -1,0 +1,25 @@
+MSH|^~\&|PCS|SCM|HL7PRX||20170718194942||ORM^O01|9000002214101100|D|2.3
+PID||000000001411^^^EMI Primary|000001238^^^MRN||Allscripts^Alan|||Male||Spanish|||||English|||A008393^^^Visit
+PV1||Inpatient|1EST^^^NGH|||||||||||||||Acute Care|A008393^^^Visit|||||||||||||||||||||||||20170618165200
+AL1|1|Drug|Morphine|Coughing||20170605
+ZAL|Confirmed|Family Phys|Allscripts, John j|AL|Coughing::Mild
+ORC|NW|001BDJ268^HVC|||SC||^as tolerated^D5^20170701090000^20170706085900^Routine||20170718194942|infouser1^InfoUser1^InfoUser1^AUAP^^^Physician||INFOUSER1^InfoUser1^InfoUser1^AUAP|||||||||||||^In-House Orders
+RXO|HUMINSULIN^Humalin Insulin^VCE Rx||||||||||||0
+RXR|Subcutaneous
+OBX|1|TX|Height^Height^PCS||172.7|CM|||||F
+OBX|2|TX|HeightEntered_ECLP^^PCS||30-Jun-2017 19:30||||||F
+OBX|3|TX|Weight^Weight^PCS||80|KG|||||F
+OBX|4|TX|WeightEntered_ECLP^^PCS||30-Jun-2017 19:30||||||F
+OBX|5|TX|WeightType_ECLP^^PCS||WEIGHT||||||F
+OBX|6|TX|BodySurfaceArea^BodySurfaceArea^PCS||1.94||||||F
+OBX|7|ST|TherapeuticCategory||metabolic agents \F\ antidiabetic agents||||||X
+OBX|8|ID|OMSO05^ORC-1^PCS||NW||||||F
+OBX|9|EI|OMSO05^ORC-2^PCS||1||||||F
+OBX|10|TX|OMSO05^ORC-10^PCS||||||||F|||||pallscripts^Allscripts^Paul^j^^^Physician
+OBX|11|TS|OMSO05^TQ1-7^PCS||20170701090000||||||F
+OBX|12|TX|OMSO05^TQ1-9^PCS||Y||||||F
+OBX|13|TX|OMSO05^RQD-2^PCS||001BDJ267||||||F
+OBX|14|CE|OMSO05^RQD-5^PCS||3|mg|||||F
+OBX|15|SI|OMSO05^NTE-1^PCS||1||||||F
+OBX|16|ID|OMSO05^NTE-2^PCS||P||||||F
+OBX|17|FT|OMSO05^NTE-3^PCS||Some comments||||||F
